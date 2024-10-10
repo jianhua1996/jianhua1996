@@ -21,18 +21,16 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jianhua1996/jianhua1996/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div style="display: flex; justify-content: space-evenly; margin-top: 20px;">
-    <div style="width: 48%;">
-        <h3>👋 Hello, 你好！</h3>
-        <p style="text-indent: 2em;">我是 jianhua1996，一名前端开发者，热爱编程，喜欢分享，希望能与你一起交流。</p>
-    </div>
-    <div style="width: 48%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=moltack&hide_border=true&layout=compact" />
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>👋 Hello, 你好！</h3>
+      <p style="text-indent: 2em;">我是 jianhua1996，一名前端开发者，热爱编程，喜欢分享，希望能与你一起交流。</p>
+    </td>
+    <td>
+      <img width="650" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=moltack&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; margin-top: 20px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jianhua1996&theme=monokai&hide_border=true&radius=10&days=20&grid=false" />
-</div>
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jianhua1996&theme=one-dark&hide_border=true&radius=10&days=20&grid=false" />
