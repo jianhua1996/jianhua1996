@@ -28,9 +28,12 @@ Here are some ideas to get you started:
       <p>我是 jianhua1996，一名前端开发者，热爱编程，喜欢分享，希望能与你一起交流。</p>
     </td>
     <td>
-      <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=ambient_gradient&hide_border=true&layout=compact" />
+      <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=moltack&hide_border=true&hide_title=true&layout=compact" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jianhua1996&theme=one-dark&hide_border=true&radius=10&days=20&grid=false" />
     </td>
   </tr>
 </table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jianhua1996&theme=redical&hide_border=true&radius=10&days=20&grid=false" />
