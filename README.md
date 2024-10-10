@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=Welcome&desc=It's%20jianhua1996's%20GitHub%20profile&fontAlignY=45&descAlignY=68&textBg=false&fontSize=75&animation=fadeIn&reversal=true" />
 </div>
 <div align="center">
-  <a href="https://jianhua1996.github.io/vitepress-blog/">
+  <a href="https://jianhua1996.github.io/vitepress-blog/" target="_blank">
     <img src="https://img.shields.io/badge/Website-博客-a97bff" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=jianhua1996&label=Views&color=e14e1d&style=flat" />
