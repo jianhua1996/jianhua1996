@@ -21,16 +21,16 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jianhua1996/jianhua1996/output/github-contribution-grid-snake.svg">
 </picture>
 
-<table>
+<table boder="0">
   <tr>
-    <td>
+    <td valign="top">
       <h3>👋 Hello, 你好！</h3>
-      <p style="text-indent: 2em;">我是 jianhua1996，一名前端开发者，热爱编程，喜欢分享，希望能与你一起交流。</p>
+      <p>我是 jianhua1996，一名前端开发者，热爱编程，喜欢分享，希望能与你一起交流。</p>
     </td>
     <td>
-      <img width="650" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=moltack&hide_border=true&layout=compact" />
+      <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=ambient_gradient&hide_border=true&layout=compact" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jianhua1996&theme=one-dark&hide_border=true&radius=10&days=20&grid=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jianhua1996&theme=redical&hide_border=true&radius=10&days=20&grid=false" />
