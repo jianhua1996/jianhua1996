@@ -26,6 +26,10 @@ Here are some ideas to get you started:
     <td valign="top">
       <h3>👋 Hello, 你好！</h3>
       <p>我是 jianhua1996，一名前端开发者，热爱编程，喜欢分享，希望能与你一起交流。</p>
+      <p>
+        我的技能： 
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,py,flutter" />
+      </p>
     </td>
     <td>
       <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=moltack&hide_border=true&hide_title=true&layout=compact&bg_color=5cd18c,eed117,7fe1a5&text_color=316" />
