@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   </a>
   <img src="https://komarev.com/ghpvc/?username=jianhua1996&label=Views&color=e14e1d&style=flat" />
 </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jianhua1996/jianhua1996/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jianhua1996/jianhua1996/output/github-contribution-grid-snake.svg">
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
       </p>
     </td>
     <td>
-      <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=moltack&hide_border=true&hide_title=true&layout=compact&bg_color=5cd18c,eed117,7fe1a5&text_color=316" />
+      <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=moltack&hide_border=true&layout=compact&bg_color=5cd18c,eed117,7fe1a5&text_color=316" />
     </td>
   </tr>
   <tr>
