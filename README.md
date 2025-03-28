@@ -51,7 +51,7 @@ Here are some ideas to get you started:
       </p>
     </td>
     <td>
-      <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=ambient_gradient&hide_border=true&layout=donut" />
+      <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=ambient_gradient&hide_border=true&layout=compact&locale=cn&bg_color=45,FF6B35,FFA07A" />
     </td>
   </tr>
   <tr>
