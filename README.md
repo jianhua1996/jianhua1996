@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jianhua1996&theme=vue&hide_border=true&radius=10&days=20&grid=false" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jianhua1996&theme=vue&hide_border=true&radius=10&days=30&custom_title=近一个月提交活跃度" />
     </td>
   </tr>
 </table>
